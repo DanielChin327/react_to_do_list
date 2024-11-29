@@ -1,6 +1,7 @@
 import { useState } from "react";
 import ToDoList from "./components/ToDoList"; // Importing the ToDoList component
 import AddTaskForm from "./components/AddTaskForm"; // Importing the AddTaskForm component
+import "./styles.css"
 
 function App() {
   // State to store the list of tasks
